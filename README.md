@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattgmdev
-- 👀 I’m interested in Programming, Photography and Motorcycle 
-- 🌱 I’m currently learning React.js, Node.js, Express.js
-- 💞️ I’m looking to collaborate on Inspiring projects
+- 🔥 I’m interested in Programming, Photography and Motorcycle 
+- 🌱 I’m currently learning MERN stack
+- 💬 I’m looking to collaborate on Inspiring projects
 - 📫 How to reach me mattgmdev@gmail.com
 
 <!---
